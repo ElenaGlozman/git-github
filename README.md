@@ -1,2 +1,2 @@
 # git-github
-Git Github class
+Git Github class - edit
